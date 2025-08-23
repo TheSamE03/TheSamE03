@@ -40,6 +40,6 @@
 
 ## 🌐 Connect With Me  
 
-- 🌍 Website: [samuelerne.com](https://samuelerne.com)  
+- 🌍 Website: [Personal Website](https://samuelerne.com)  
 - 💼 LinkedIn: 
 [linkedin.com/in/samuel-erne](linkedin.com/in/samuel-erne)
