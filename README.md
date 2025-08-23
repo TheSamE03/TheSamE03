@@ -1,7 +1,7 @@
-## Hi there 
+## About me
 
 
-- 🔭 I’m currently working on physics simulations 
-- 🌱 I’m currently learning networking
-- 🤔 I’m looking for help with diversifying my skillset
+- I develop simations for theoretical photonics research, primarily electron-hole diffusion. 
+- I am open to freelance work. 
+- I am a full time student.
 - 📫 How to reach me: find information on my person website at samuelerne.com 
