@@ -1,6 +1,6 @@
 # Samuel Erne
 
-🎓 **Physics Major** | 🔬 **Researcher in Theoretical Photonics** | 💻 **Developer**  
+🎓 **Physics Major** | 🔬 **Researcher in Theoretical Physics** | 💻 **Developer**  
 
 ---
 
