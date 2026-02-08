@@ -15,7 +15,7 @@
 
 ## 🛠️ Skills & Tools  
 
-- **Programming:** Python (intermediate), MATLAB (beginning), LaTeX (proficient)  
+- **Programming:** Python, MATLAB, LaTeX, Julia
 - **Research Areas:** Photonics, Nonlinear Diffusion, Computational Modeling  
 - **Other Interests:** Cryptography, AI/ML, Simulation Physics  
 
@@ -25,10 +25,6 @@
 
 - 🔬 **[Nonlinear Diffusion Simulator](https://github.com/TheSamE03/nonlinear-diffusion)**  
   Computational model replicating nonlinear electron–hole diffusion dynamics.  
-
-
-- 🖥️ **AI Maintenance Assistant**  
-  Portable device powered by Jetson Orin Nano + Ollama for offline RAG-based technical support.  
 
 ---
 
