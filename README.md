@@ -7,7 +7,7 @@
 ## About Me  
 
 - 🧪 I develop **simulations for theoretical photonics research**, focusing on **nonlinear electron–hole diffusion**.  
-- 🎓 I'm currently a **full-time Physics student**, graduating **December 2025** with minors in **Astronomy** and **Mathematics**.  
+- 🎓 I'm currently a **full-time Physics and Applied Mathematics student**, graduating **May 2026** with a minor in **Astronomy**.  
 - 💼 Open to **freelance projects** and **collaborative research opportunities**.  
 - 📫 How to reach me: visit [samuelerne.com](https://samuelerne.com)  
 
