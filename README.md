@@ -1,12 +1,12 @@
 # Samuel Erne
 
-🎓 **Physics Major** | 🔬 **Researcher in Theoretical Physics** | 💻 **Developer**  
+🎓 **Physics & Applied Math Major** | 🔬 **Researcher in Theoretical Physics** | 💻 **Developer**  
 
 ---
 
 ## About Me  
 
-- 🧪 I develop **simulations for theoretical photonics research**, focusing on **nonlinear electron–hole diffusion**.  
+- 🧪 I develop **simulations for theoretical photonics research**.  
 - 🎓 I'm currently a **full-time Physics and Applied Mathematics student**, graduating **May 2026** with a minor in **Astronomy**.  
 - 💼 Open to **freelance projects** and **collaborative research opportunities**.  
 - 📫 How to reach me: visit [samuelerne.com](https://samuelerne.com)  
